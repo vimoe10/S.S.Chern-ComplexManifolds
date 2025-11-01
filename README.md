@@ -9,5 +9,5 @@ The work is currently **unfinished**. The initial transcription leveraged AI too
 ## How to Contribute
 We welcome contributions from anyone interested in helping complete this project! The source files are hosted on Overleaf, where you can directly edit and improve the content:
 
-**Contribute here:** [Overleaf Project Link](https://www.overleaf.com/4936381539jjsqhhhnphgt#6f3f79)
+**Contribute here:** [Overleaf Project Link](https://www.overleaf.com/6532676379skqznyzwskds#b66ddc)
 
